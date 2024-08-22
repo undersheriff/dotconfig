@@ -1,0 +1,28 @@
+window:
+    padding:
+        x: 2
+        y: 2
+
+    opacity: 0.9
+
+scrolling:
+    history: 999
+
+font:
+    normal:
+        family: Hack
+        style: Regular
+    bold:
+        family: Hack
+        style: Bold
+    italic:
+        family: Hack
+        style: Italic
+    bold_italic:
+        family: Hack
+        style: Bold Italic
+
+    size: 9.0
+
+draw_bold_text_with_bright_colors: true
+
